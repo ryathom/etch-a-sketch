@@ -19,19 +19,11 @@ body {
   border-style: outset;
   border-color: black;
   margin-top: 40px;
-}
-
-.pixel {
-  width: 28px;
-  height: 28px;
-  border: solid;
-  border-width: 1px;
-  border-color: lightgrey;
+  margin-bottom: 20px;
 }
 
 .pixel.filled {
-  background-color: darkslategray;
-  border-color: darkslategray;
+  background-color: black;
 }
 
 .pixel.unfilled {
